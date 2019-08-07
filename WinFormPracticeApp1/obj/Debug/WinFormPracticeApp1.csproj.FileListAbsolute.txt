@@ -1,0 +1,10 @@
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\bin\Debug\WinFormPracticeApp1.exe.config
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\bin\Debug\WinFormPracticeApp1.exe
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\bin\Debug\WinFormPracticeApp1.pdb
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\obj\Debug\WinFormPracticeApp1.csprojAssemblyReference.cache
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\obj\Debug\WinFormPracticeApp1.Properties.Resources.resources
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\obj\Debug\WinFormPracticeApp1.csproj.GenerateResource.cache
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\obj\Debug\WinFormPracticeApp1.csproj.CoreCompileInputs.cache
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\obj\Debug\WinFormPracticeApp1.exe
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\obj\Debug\WinFormPracticeApp1.pdb
+E:\User\Documents\Projects\C#\Practice Apps\WinFormPracticeApp1\obj\Debug\WinFormPracticeApp1.SimpleCalculatorForm.resources
